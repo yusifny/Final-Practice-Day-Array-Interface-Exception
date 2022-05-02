@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FF6F8C26-E5EE-4B42-8144-8CE104DC0FD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice-Day-Array-Interface-Exception/Program.cs">
+    <Files>
+      <File FileName="Practice-Day-Array-Interface-Exception/Program.cs" Line="34" Column="1" />
+      <File FileName="Practice-Day-Array-Interface-Exception/Models/Department.cs" />
+      <File FileName="Practice-Day-Array-Interface-Exception/Models/Employee.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Practice-Day-Array-Interface-Exception" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Practice-Day-Array-Interface-Exception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
